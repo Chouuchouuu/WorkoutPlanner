@@ -1,4 +1,4 @@
-package Planner;
+package planner;
 
 public enum MuscleGroup {
 	legs(Bodypart.LOWER_BODY),

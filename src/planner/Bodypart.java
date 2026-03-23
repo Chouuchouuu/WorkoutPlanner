@@ -1,4 +1,4 @@
-package Planner;
+package planner;
 
 public enum Bodypart {
 	UPPER_BODY,
